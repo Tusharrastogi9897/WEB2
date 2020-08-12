@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/WEB2/static/css/main.b3163078.chunk.css",
-    "main.js": "/WEB2/static/js/main.a436b233.chunk.js",
-    "main.js.map": "/WEB2/static/js/main.a436b233.chunk.js.map",
-    "runtime-main.js": "/WEB2/static/js/runtime-main.47d1a1a9.js",
-    "runtime-main.js.map": "/WEB2/static/js/runtime-main.47d1a1a9.js.map",
-    "static/css/2.6fd6dab9.chunk.css": "/WEB2/static/css/2.6fd6dab9.chunk.css",
-    "static/js/2.a33f63bc.chunk.js": "/WEB2/static/js/2.a33f63bc.chunk.js",
-    "static/js/2.a33f63bc.chunk.js.map": "/WEB2/static/js/2.a33f63bc.chunk.js.map",
-    "index.html": "/WEB2/index.html",
-    "precache-manifest.b00cfbaa4ee6859424f6e84bc6d6511b.js": "/WEB2/precache-manifest.b00cfbaa4ee6859424f6e84bc6d6511b.js",
-    "service-worker.js": "/WEB2/service-worker.js",
-    "static/css/2.6fd6dab9.chunk.css.map": "/WEB2/static/css/2.6fd6dab9.chunk.css.map",
-    "static/css/main.b3163078.chunk.css.map": "/WEB2/static/css/main.b3163078.chunk.css.map",
-    "static/js/2.a33f63bc.chunk.js.LICENSE.txt": "/WEB2/static/js/2.a33f63bc.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.css": "/WEB2/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/WEB2/react/static/css/main.b3163078.chunk.css",
+    "main.js": "/WEB2/react/static/js/main.0b6b92c5.chunk.js",
+    "main.js.map": "/WEB2/react/static/js/main.0b6b92c5.chunk.js.map",
+    "runtime-main.js": "/WEB2/react/static/js/runtime-main.2b240a95.js",
+    "runtime-main.js.map": "/WEB2/react/static/js/runtime-main.2b240a95.js.map",
+    "static/css/2.4a6252da.chunk.css": "/WEB2/react/static/css/2.4a6252da.chunk.css",
+    "static/js/2.a33f63bc.chunk.js": "/WEB2/react/static/js/2.a33f63bc.chunk.js",
+    "static/js/2.a33f63bc.chunk.js.map": "/WEB2/react/static/js/2.a33f63bc.chunk.js.map",
+    "index.html": "/WEB2/react/index.html",
+    "precache-manifest.3cc23a4c42ce5929b06c02f4a57c9463.js": "/WEB2/react/precache-manifest.3cc23a4c42ce5929b06c02f4a57c9463.js",
+    "service-worker.js": "/WEB2/react/service-worker.js",
+    "static/css/2.4a6252da.chunk.css.map": "/WEB2/react/static/css/2.4a6252da.chunk.css.map",
+    "static/css/main.b3163078.chunk.css.map": "/WEB2/react/static/css/main.b3163078.chunk.css.map",
+    "static/js/2.a33f63bc.chunk.js.LICENSE.txt": "/WEB2/react/static/js/2.a33f63bc.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/WEB2/react/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.47d1a1a9.js",
-    "static/css/2.6fd6dab9.chunk.css",
+    "static/js/runtime-main.2b240a95.js",
+    "static/css/2.4a6252da.chunk.css",
     "static/js/2.a33f63bc.chunk.js",
     "static/css/main.b3163078.chunk.css",
-    "static/js/main.a436b233.chunk.js"
+    "static/js/main.0b6b92c5.chunk.js"
   ]
 }
